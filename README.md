@@ -3,8 +3,8 @@
 ## Скріншоти тестування програми
 
 ![alt text](Screenshots/11.jpg)
-![alt text](https://github.com/KarmazinN/IPZ_2/tree/main/Screenshots/12.jpg)
-![Image alt](https://github.com/KarmazinN/IPZ_2/tree/main/Screenshots/13.jpg)
-![Image alt](https://github.com/KarmazinN/IPZ_2/tree/main/Screenshots/14.jpg)
-![Image alt](https://github.com/KarmazinN/IPZ_2/tree/main/Screenshots/15.jpg)
-![Image alt](https://github.com/KarmazinN/IPZ_2/tree/main/Screenshots/16.jpg)
+![alt text](Screenshots/12.jpg)
+![Image alt](Screenshots/13.jpg)
+![Image alt](Screenshots/14.jpg)
+![Image alt](Screenshots/15.jpg)
+![Image alt](Screenshots/16.jpg)
